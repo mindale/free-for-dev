@@ -6,3 +6,5 @@
  We are not here to argue with you. If you are argumentative, abusive,
  lie or misrepresent your service or are otherwise anti-social we will
  block you.
+
+Note: be kind to each other.
