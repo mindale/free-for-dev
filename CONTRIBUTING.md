@@ -1,4 +1,4 @@
-# Contributing (branch1 v1)
+# Contributing (branch1 v2)
 
 Thank you for contributing to this list. This list is for **SaaS**
 services that offer a **free tier** to help developers evaluate and
